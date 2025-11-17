@@ -12,7 +12,7 @@ This project uses .NET 8 and a Alpha Vantage free API key that
 
 - Get a free API Key at https://www.alphavantage.co/documentation/ 
 
-- Add this key in the User's Secrets (dotnet user-secrets set "AlphaVantageApiKey" "KEY")
+- Add this key in the User's Secrets (dotnet user-secrets set "AlphaVantageApiKey": "KEY")
 
 - Build the solution and swagger should come up to test the exposed API
 
