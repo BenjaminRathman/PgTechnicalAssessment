@@ -1,6 +1,6 @@
 # Prometheus Group - Technical Assessment
 
-This is Benjamin Rathman's Solution to the Prometheus Group's Technical Assessment
+This is Benjamin Rathman's solution to the Prometheus Group's Technical Assessment
 
 This project uses .NET 8 and a Alpha Vantage free API key that
 - Calls the Alpha Vantage `TIME_SERIES_INTRADAY` endpoint
